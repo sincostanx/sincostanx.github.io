@@ -4,7 +4,7 @@ permalink: "/cv/"
 layout: page
 ---
 
-# Academic Background
+<font size="+2">Academic Backgroundx</font>
 ---
 
 ## Undergraduate study
