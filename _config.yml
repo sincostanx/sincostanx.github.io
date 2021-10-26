@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Chinchuthakun Worameth"
+author: "Chinchuthakun Worameth"
+description: "To be inserted..."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -8,21 +8,22 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_excerpts: false        # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {title: Home, file: "home.md"}
+  - {title: CV, file: "cv.md"}
+  - {title: About Me, file: "about-me.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:hw.55.m.woramet@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/sincostanx"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/worameth-chinchuthakun-7b3704148/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
