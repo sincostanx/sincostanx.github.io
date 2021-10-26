@@ -5,14 +5,14 @@ layout: page
 ---
 
 # Academic Background
-<hr style="border:2px solid gray"> 
+---
 
 ## Undergraduate study
  - Dept. Transdisciplinary Science and Engineering (B.E.), Tokyo Institute of Technology
  - [Yamashita Laboratory](http://www.ide.titech.ac.jp/~yylab/) - "Supervised Monocular Depth Estimation via Stacked Generalization"
 
 # Work Experience
-<hr style="border:2px solid gray"> 
+---
 
 ## Thai Students’ Association in Japan under the Royal Patronage (TSAJ) (2018 - 2021)
 ### Head of Department of Finance (2020 - 2021)
@@ -25,4 +25,4 @@ layout: page
  - Plan and Organize events for Thai students in Japan with other volunteers
 
 # Project
-<hr style="border:2px solid gray">
+---
