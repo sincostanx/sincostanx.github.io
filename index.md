@@ -11,9 +11,13 @@ Hi, nice to meet you! I am currently a bachelor's student in Yamashita Laborator
 ## Education
 <hr style="height: 1px; margin:0; background-color: #848484">
 
-### Undergraduate (2018 - Now)
- - Dept. Transdisciplinary Science and Engineering (B.E.), Tokyo Institute of Technology
+### Undergraduate (2018 - Present)
+ - Dept. Transdisciplinary Science and Engineering (B.E.), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan
  - [Yamashita Laboratory](http://www.ide.titech.ac.jp/~yylab/) - "Supervised Monocular Depth Estimation via Stacked Generalization" [paper][code]
+
+### High school (2015 - 2018)
+ - [Mahidol Wittayanusorn School](https://www.mwit.ac.th/en/home/), Thailand
+ - Programming club
 
 &nbsp;
 ## Work Experience
