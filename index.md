@@ -3,7 +3,6 @@ layout: page
 title: "Chinchuthakun Worameth"
 ---
 
-&nbsp;
 ## About
 <hr style="height: 1px; margin:0; background-color: #848484">
 Hi, nice to meet you! I am currently a bachelor's student in Yamashita Laboratory at Dept. of Transdisciplinary Science and Engineering, Tokyo Institute of Technology. I am interested in Machine Learning, especially Deep Learning. My main research area is Computer vision, focusing on Monocular Depth Estimation. I am also interested in other topics (NLP and regularization) and trying to stay updated on their progress.
