@@ -35,18 +35,19 @@ Hi, nice to meet you! I am currently a bachelor's student in Yamashita Laborator
 ## Project
 <hr style="height: 1px; margin:0; background-color: #848484">
 
-- Class Assignments in Undergraduate Study (2018-2022) [code]
+- Class Assignments in Undergraduate Study (2018-2022) [[code]](https://github.com/sincostanx/Titech-Undergraduate)
 - Website for Trip Planning (2019 - 2021)
-- The University of Tokyo's Research Hackathon (2021) [code]
+- The University of Tokyo's Research Hackathon (2021) [[code]](https://github.com/sincostanx/UTokyo-Hackathon)
 
 &nbsp;
 ## Competition
 <hr style="height: 1px; margin:0; background-color: #848484">
 
 - Thailand Olympiad in Informatics (2016), Gold Medal
-- Thailand Young Scientist Competition (2017), Second Prize [[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
-- [Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp), ranking 87 from 486 [[code]](https://github.com/sincostanx/data-centric-comp)
-- [Thailand Machine Learning for Chemistry Competition (2021)](https://tmlcc.cseathai.org/), Team "no idea 555" [code]
+- [Thailand Young Scientist Competition](https://www.nstda.or.th/ysc/) (2017), Second Prize [[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
+- [Intel International Science and Engineering Fair](https://www.societyforscience.org/isef/) (2017), A representative of Thailand [[abstract]](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&Finalist=Chinchuthakun&AllAbstracts=True&FairCountry=Thailand&FairState=Any%20State&ProjectId=8808)[[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
+- [Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp) (2021), ranking 87 from 486 [[code]](https://github.com/sincostanx/data-centric-comp)
+- [Thailand Machine Learning for Chemistry Competition](https://tmlcc.cseathai.org/) (2021), Team "no idea 555" [code]
 - My profile on various platforms:
     - **Codeforces**: [https://codeforces.com/profile/sin_cos_tan](https://codeforces.com/profile/sin_cos_tan)
     - **Atcoder**: [https://atcoder.jp/users/sincostan](https://atcoder.jp/users/sincostan)
