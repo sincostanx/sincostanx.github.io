@@ -51,7 +51,7 @@ Hi, nice to meet you! I am currently a bachelor's student in Yamashita Laborator
 - [Thailand Young Scientist Competition](https://www.nstda.or.th/ysc/) (2017), Second Prize [[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
 - [Intel International Science and Engineering Fair](https://www.societyforscience.org/isef/) (2017), A representative of Thailand [[abstract]](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&Finalist=Chinchuthakun&AllAbstracts=True&FairCountry=Thailand&FairState=Any%20State&ProjectId=8808)[[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
 - [Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp) (2021), ranking 87 from 486 [[code]](https://github.com/sincostanx/data-centric-comp)
-- [Thailand Machine Learning for Chemistry Competition](https://tmlcc.cseathai.org/) (2021), Team "no idea 555" [code]
+- [Thailand Machine Learning for Chemistry Competition](https://tmlcc.cseathai.org/) (2021), Team "no idea 555" [[code]](https://github.com/sincostanx/TMLCC)
 - My profile on various platforms:
     - **Codeforces**: [https://codeforces.com/profile/sin_cos_tan](https://codeforces.com/profile/sin_cos_tan)
     - **Atcoder**: [https://atcoder.jp/users/sincostan](https://atcoder.jp/users/sincostan)
