@@ -34,10 +34,10 @@ ICCV 2025, CVPR 2025
 ## Work Experience
 - [**Siam Commercial Bank (SCB)**](https://www.scb.co.th/en/), Bangkok, Thailand
     - 2025 — Data Scientist (Full-time)
-    Project: Advertisement banner generation and feature extraction using VLMs
+    - Project: Advertisement banner generation and feature extraction using VLMs
     - 2022 — Data Scientist (Internship)
-    Project: Food image classification with metric learning
-    Supervised by: [Jayakorn Vongkulbhisal](https://scholar.google.com/citations?user=lhu8iYQAAAAJ&hl=en) & [Jedsadakorn Yonchorhor](https://www.linkedin.com/in/jyonchor)
+    - Project: Food image classification with metric learning
+    - Supervised by: [Jayakorn Vongkulbhisal](https://scholar.google.com/citations?user=lhu8iYQAAAAJ&hl=en) & [Jedsadakorn Yonchorhor](https://www.linkedin.com/in/jyonchor)
 
 - [**Vision and Learning Lab**](https://vistec.ist/vision/), [VISTEC](https://vistec.ist/), Rayong, Thailand
     - 2023 - 2025  — Research Assistant
@@ -47,13 +47,13 @@ ICCV 2025, CVPR 2025
 - [**AWL Inc.**](https://awl.co.jp/en/company/), Tokyo, Japan
     - 2022 - 2023 — AI Engineer (Part-time)
     - 2022 — Data Scientist (Internship)
-    Project: Lightweight face recognition models for security cameras
-    Supervised by: [Joshua Ezekiel Sambo](https://www.linkedin.com/in/esjoshua/) & [Joo Ann Woo](https://www.linkedin.com/in/joo-ann-woo-a97204a0/)
+    - Project: Lightweight face recognition models for security cameras
+    - Supervised by: [Joshua Ezekiel Sambo](https://www.linkedin.com/in/esjoshua/) & [Joo Ann Woo](https://www.linkedin.com/in/joo-ann-woo-a97204a0/)
 
 - [**LINE MAN Wongnai**](https://lmwn.com/), Bangkok, Thailand
     - 2022 — Data Scientist (Internship)
-    Project: Restaurant Recommendation System
-    Supervised by: [Nawat Suvansinpan](https://www.linkedin.com/in/nawatsuvan/) & [Kawee Tiraborisute](https://www.linkedin.com/in/kawee-tiraborisute-602348196)
+    - Project: Restaurant Recommendation System
+    - Supervised by: [Nawat Suvansinpan](https://www.linkedin.com/in/nawatsuvan/) & [Kawee Tiraborisute](https://www.linkedin.com/in/kawee-tiraborisute-602348196)
 
 
 &nbsp;
