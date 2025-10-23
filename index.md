@@ -6,7 +6,7 @@ title: "Worameth (Tan) Chinchuthakun"
 ## About
 <hr style="height: 1px; margin:0; background-color: #848484">
 Hi! I’m Worameth Chinchuthakun or Tan (แทน). 
-I’m now a data scientist at Siam Commercial Bank. But, yes, I'm still doing research! Currently looking for PhD opportunities in computer vision.
+I’m now a data scientist at Siam Commercial Bank. But, yes, I'm still doing research!
 
 Before this, I worked as a research assistant at [VISTEC](https://vistec.ist/), Thailand (advised by [Prof. Supasorn Suwajanakorn](https://www.supasorn.com/)), and did my master's at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (advised by [Alvin C.G. Varquez](https://scholar.google.com/citations?user=ZjIC2ZoAAAAJ&hl=en) and Prof. [Yukihiko Yamashita](https://www.researchgate.net/profile/Yukihiko-Yamashita)).
 
@@ -15,17 +15,17 @@ Before this, I worked as a research assistant at [VISTEC](https://vistec.ist/), 
 <!-- <hr style="height: 1px; margin:0; background-color: #848484"> -->
 
 - 2025 — [**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**](https://tossatree.com/lusd-project/) [ICCV 2025]
-**Worameth Chinchuthakun***, Tossaporn Saengja*, Nontawat Tritrong, Pitchaporn Rewatbowornwong, Pramook Khungurn, Supasorn Suwajanakorn
+    - **Worameth Chinchuthakun***, Tossaporn Saengja*, Nontawat Tritrong, Pitchaporn Rewatbowornwong, Pramook Khungurn, Supasorn Suwajanakorn
 - 2025 — [**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**](https://diffusionlight.github.io/turbo/) [Arxiv]
-**Worameth Chinchuthakun***, Pakkapon Phongthawee*, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
+    - **Worameth Chinchuthakun***, Pakkapon Phongthawee*, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
 - 2024 — [**DiffusionLight: Light Probes for Free by Painting a Chrome Ball**](https://diffusionlight.github.io/) [CVPR 2024 (Oral) 🎉]
-Pakkapon Phongthawee*, **Worameth Chinchuthakun***, Nontaphat Sinsunthithet, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
+    - Pakkapon Phongthawee*, **Worameth Chinchuthakun***, Nontaphat Sinsunthithet, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
 - 2024 — [**Diffusion Sampling with Momentum
 for Mitigating Divergence Artifacts**](https://arxiv.org/abs/2307.11118) [ICLR 2024]
-Suttisak Wizadwongsa, **Worameth Chinchuthakun**, Pramook Khungurn, Amit Raj, Supasorn Suwajanakorn
+    - Suttisak Wizadwongsa, **Worameth Chinchuthakun**, Pramook Khungurn, Amit Raj, Supasorn Suwajanakorn
 - 2024 — [**Annual Past-Present Land Cover
 Classification from Landsat Using Deep Learning for Urban Agglomerations**](https://www.jstage.jst.go.jp/article/journalofjsce/12/2/12_23-16151/_pdf) [Journal of JSCE]
-**Worameth Chinchuthakun**, David Winderl, Alvin C.G. Varquez, Yukihiko Yamashita, Manabu Kanda
+    - **Worameth Chinchuthakun**, David Winderl, Alvin C.G. Varquez, Yukihiko Yamashita, Manabu Kanda
 
 ### Reviewer services
 ICCV 2025, CVPR 2025
