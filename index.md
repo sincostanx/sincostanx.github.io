@@ -34,10 +34,10 @@ ICCV 2025, CVPR 2025
 ## Work Experience
 - [**Siam Commercial Bank (SCB)**](https://www.scb.co.th/en/), Bangkok, Thailand
     - 2025 — Data Scientist (Full-time)
-    - Project: Advertisement banner generation and feature extraction using VLMs
+        - Project: Advertisement banner generation and feature extraction using VLMs
     - 2022 — Data Scientist (Internship)
-    - Project: Food image classification with metric learning
-    - Supervised by: [Jayakorn Vongkulbhisal](https://scholar.google.com/citations?user=lhu8iYQAAAAJ&hl=en) & [Jedsadakorn Yonchorhor](https://www.linkedin.com/in/jyonchor)
+        - Project: Food image classification with metric learning
+        - Supervised by: [Jayakorn Vongkulbhisal](https://scholar.google.com/citations?user=lhu8iYQAAAAJ&hl=en) & [Jedsadakorn Yonchorhor](https://www.linkedin.com/in/jyonchor)
 
 - [**Vision and Learning Lab**](https://vistec.ist/vision/), [VISTEC](https://vistec.ist/), Rayong, Thailand
     - 2023 - 2025  — Research Assistant
