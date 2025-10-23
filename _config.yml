@@ -1,6 +1,6 @@
-title: "Chinchuthakun Worameth"
-author: "Chinchuthakun Worameth"
-description: "To be inserted..."
+title: "Worameth Chinchuthakun"
+author: "Worameth Chinchuthakun"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,11 +17,11 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "index.md"}
-  - {title: Blogs, file: "blog.html"}
-  - {title: About, file: "about.md"}
+  # - {title: Blogs, file: "blog.html"}
+  # - {title: About, file: "about.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: CV, icon: file, url: "https://drive.google.com/file/d/1PjHykM3w2Y5q0KP56I-UHZLKEUuHLil6/view?usp=sharing"}
+  - {title: CV, icon: file, url: "https://drive.google.com/file/d/198gmYrvUTqZtZjYF3MJT5OVt_j58nH7d/view?usp=sharing"}
   - {title: Mail, icon: envelope, url: "mailto:hw.55.m.woramet@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sincostanx"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/worameth-chinchuthakun-7b3704148/"}

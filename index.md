@@ -1,58 +1,88 @@
 ---
 layout: page
-title: "Chinchuthakun Worameth"
+title: "Worameth (Tan) Chinchuthakun"
 ---
 
 ## About
 <hr style="height: 1px; margin:0; background-color: #848484">
-Hi, nice to meet you! I am currently a bachelor's student in Yamashita Laboratory at Dept. of Transdisciplinary Science and Engineering, Tokyo Institute of Technology. I am interested in Machine Learning, especially Deep Learning. My main research area is Computer vision, focusing on Monocular Depth Estimation. I am also interested in other topics (NLP and regularization) and trying to stay updated on their progress.
+Hi! I’m Worameth Chinchuthakun or Tan (แทน). 
+I’m now a data scientist at Siam Commercial Bank. But, yes, I'm still doing research! Currently looking for PhD opportunities in computer vision.
+
+Before this, I worked as a research assistant at [VISTEC](https://vistec.ist/), Thailand (advised by [Prof. Supasorn Suwajanakorn](https://www.supasorn.com/)), and did my master's at [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (advised by [Alvin C.G. Varquez](https://scholar.google.com/citations?user=ZjIC2ZoAAAAJ&hl=en) and Prof. [Yukihiko Yamashita](https://www.researchgate.net/profile/Yukihiko-Yamashita)).
 
 &nbsp;
-## Education
-<hr style="height: 1px; margin:0; background-color: #848484">
+## Publications
+<!-- <hr style="height: 1px; margin:0; background-color: #848484"> -->
 
-### Undergraduate (2018 - Present)
- - Dept. of Transdisciplinary Science and Engineering (B.E.), [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan
- - [Yamashita Laboratory](http://www.ide.titech.ac.jp/~yylab/) - ***"Supervised Monocular Depth Estimation via Stacked Generalization"*** [[progress]](https://drive.google.com/file/d/1wrjHJrAY8h8B7ccvu8Z7Y0r3zFU-cVUI/view)[[code]](https://github.com/sincostanx/Undergrad-Thesis)
+- 2025 — [**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**](https://tossatree.com/lusd-project/)
+**Worameth Chinchuthakun***, Tossaporn Saengja*, Nontawat Tritrong, Pitchaporn Rewatbowornwong, Pramook Khungurn, Supasorn Suwajanakorn
+ICCV 2025
+- 2025 — [**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**](https://diffusionlight.github.io/turbo/)
+**Worameth Chinchuthakun***, Pakkapon Phongthawee*, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
+Arxiv
+- 2024 — [**DiffusionLight: Light Probes for Free by Painting a Chrome Ball**](https://diffusionlight.github.io/)
+Pakkapon Phongthawee*, **Worameth Chinchuthakun***, Nontaphat Sinsunthithet, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
+CVPR 2024 (Oral) 🎉
+- 2024 — [**Diffusion Sampling with Momentum
+for Mitigating Divergence Artifacts**](https://arxiv.org/abs/2307.11118)
+Suttisak Wizadwongsa, **Worameth Chinchuthakun**, Pramook Khungurn, Amit Raj, Supasorn Suwajanakorn
+ICLR 2024
+- 2024 — [**Annual Past-Present Land Cover
+Classification from Landsat Using Deep Learning for Urban Agglomerations**](https://www.jstage.jst.go.jp/article/journalofjsce/12/2/12_23-16151/_pdf)
+**Worameth Chinchuthakun**, David Winderl, Alvin C.G. Varquez, Yukihiko Yamashita, Manabu Kanda
+Journal of JSCE
 
-### High school (2015 - 2018)
- - [Mahidol Wittayanusorn School](https://www.mwit.ac.th/en/home/), Thailand
- - Programming club
+### Reviewer services
+ICCV 2025, CVPR 2025
 
 &nbsp;
 ## Work Experience
-<hr style="height: 1px; margin:0; background-color: #848484">
+- [**Siam Commercial Bank (SCB)**](https://www.scb.co.th/en/), Bangkok, Thailand
+    - 2025 — Data Scientist (Full-time)
+    Project: Advertisement banner generation and feature extraction using VLMs
+    - 2022 — Data Scientist (Internship)
+    Project: Food image classification with metric learning
+    Supervised by: [Jayakorn Vongkulbhisal](https://scholar.google.com/citations?user=lhu8iYQAAAAJ&hl=en) & [Jedsadakorn Yonchorhor](https://www.linkedin.com/in/jyonchor)
 
-### Thai Students’ Association in Japan under the Royal Patronage (TSAJ) (2018 - 2021)
- - **Head of Department of Finance (2020 - 2021)**
-    - Responsible for budget planning and revising financial policies
-    - Supervise association's financial transactions and responsible for financial statement including financial donation distribution for Thai students in Japan affected by Covid-19 pandemic (supported by MUFG Bank)
-    - A member of the association's project approval committee
+- [**Vision and Learning Lab**](https://vistec.ist/vision/), [VISTEC](https://vistec.ist/), Rayong, Thailand
+    - 2023 - 2025  — Research Assistant
+    Conduct research on generative modeling, focusing on diffusion models.
+    - Advisor: [Supasorn Suwajanakorn](https://www.linkedin.com/in/supasorn/)
 
- - **Department of Finance (2019 -2020)**
-    - Supervise association's financial transactions and responsible for financial statement
+- [**AWL Inc.**](https://awl.co.jp/en/company/), Tokyo, Japan
+    - 2022 - 2023 — AI Engineer (Part-time)
+    - 2022 — Data Scientist (Internship)
+    Project: Lightweight face recognition models for security cameras
+    Supervised by: [Joshua Ezekiel Sambo](https://www.linkedin.com/in/esjoshua/) & [Joo Ann Woo](https://www.linkedin.com/in/joo-ann-woo-a97204a0/)
 
-- **Department of Events and Activities (2018 - 2019)**
-    - Plan and Organize events for Thai students in Japan with other volunteers
+- [**LINE MAN Wongnai**](https://lmwn.com/), Bangkok, Thailand
+    - 2022 — Data Scientist (Internship)
+    Project: Restaurant Recommendation System
+    Supervised by: [Nawat Suvansinpan](https://www.linkedin.com/in/nawatsuvan/) & [Kawee Tiraborisute](https://www.linkedin.com/in/kawee-tiraborisute-602348196)
+
 
 &nbsp;
-## Project
-<hr style="height: 1px; margin:0; background-color: #848484">
+## Education
+<!-- <hr style="height: 1px; margin:0; background-color: #848484"> -->
 
-- Class Assignments in Undergraduate Study (2018-2022) [[code]](https://github.com/sincostanx/Titech-Undergraduate)
-- Website for Trip Planning (2019 - 2021)
-- The University of Tokyo's Research Hackathon (2021) [[code]](https://github.com/sincostanx/UTokyo-Hackathon)
+- 2022 - 2024 — [**Tokyo Institute of Technology**](https://www.titech.ac.jp/english)
+    - M.Eng. in Transdisciplinary Science and Engineering
+    - GPA: 3.97 / 4.50 (**Rank: 2nd in department**)
+    - Advisors: [Alvin C.G. Varquez](https://scholar.google.com/citations?user=ZjIC2ZoAAAAJ&hl=en) and Prof. [Yukihiko Yamashita](https://www.researchgate.net/profile/Yukihiko-Yamashita)
+- 2018 - 2022 — **Tokyo Institute of Technology**
+    - B.E. in Transdisciplinary Science and Engineering
+    - GPA: 3.70 / 4.50 (**Rank: 1st in department**)
+    - Advisor: Prof. Yukihiko Yamashita
 
 &nbsp;
-## Competition
-<hr style="height: 1px; margin:0; background-color: #848484">
-
-- Thailand Olympiad in Informatics (2016), Gold Medal
-- [Thailand Young Scientist Competition](https://www.nstda.or.th/ysc/) (2017), Second Prize [[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
-- [Intel International Science and Engineering Fair](https://www.societyforscience.org/isef/) (2017), A representative of Thailand [[abstract]](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&Finalist=Chinchuthakun&AllAbstracts=True&FairCountry=Thailand&FairState=Any%20State&ProjectId=8808)[[code]](https://github.com/sincostanx/EmergencyDistribute-GA)
-- [Data-Centric AI Competition](https://https-deeplearning-ai.github.io/data-centric-comp) (2021), ranking 87 from 486 [[code]](https://github.com/sincostanx/data-centric-comp)
-- [Thailand Machine Learning for Chemistry Competition](https://tmlcc.cseathai.org/) (2021), Team "no idea 555" [[code]](https://github.com/sincostanx/TMLCC)
-- My profile on various platforms:
-    - **Codeforces**: [https://codeforces.com/profile/sin_cos_tan](https://codeforces.com/profile/sin_cos_tan)
-    - **Atcoder**: [https://atcoder.jp/users/sincostan](https://atcoder.jp/users/sincostan)
-    - **Kaggle**: [https://www.kaggle.com/sincostanx](https://www.kaggle.com/sincostanx)
+## Awards
+- **Monbukagakusho (MEXT) Scholarship**, Japanese Government
+    - Full master’s tuition plus an annual living allowance of 1,728,000 JPY (April 2022 - March 2024)
+    - Full undergraduate tuition plus an annual living allowance of 1,448,000 JPY (April 2018 - March 2022)
+- **Academic Excellence Award 2022**: For excellent academic performance during the undergraduate program
+- [**Intel ISEF 2017**](https://www.societyforscience.org/isef/)
+    - Selected as a country's representative to present at the conference.
+    - Project: Modeling Emergency Donation Distribution
+    - Advisors: [Laokhwan Ngamprasit](https://th.linkedin.com/in/laokhwan-ngamprasit-695421117), [Prof. Athasit Surarerks](https://www.eng.chula.ac.th/en/staff/assoc-prof-athasit-surarerks-doctorat-informatique), & [Sanparith Marukatat](https://scholar.google.com/citations?user=6uMrUsQAAAAJ&hl=en)
+- **Thailand Olympiad in Informatics**
+    - Gold Medal (2016). Selected as a top-30 candidate for to represent Thailand at [IOI 2017](https://stats.ioinformatics.org/olympiads/2017).
