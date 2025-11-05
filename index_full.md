@@ -12,77 +12,20 @@ Before this, I worked as a research assistant at [VISTEC](https://vistec.ist/), 
 
 &nbsp;
 ## Publications
+<!-- <hr style="height: 1px; margin:0; background-color: #848484"> -->
 
-<table>
-  <tr>
-    <td align="center">2025</td>
-    <td align="center">
-      <img src="teaser_images/lusd.png" width="200"><br>
-      <a href="https://tossatree.com/lusd-project/">[project page]</a> 
-      <a href="https://arxiv.org/abs/2503.11054">[paper]</a>
-    </td>
-    <td align="center">ICCV 2025</td>
-    <td>
-      <b>LUSD: Localized Update Score Distillation for Text-Guided Image Editing</b><br>
-      <i><u>Worameth Chinchuthakun</u>*, Tossaporn Saengja*, Nontawat Tritrong, Pitchaporn Rewatbowornwong, Pramook Khungurn, Supasorn Suwajanakorn</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">2025</td>
-    <td align="center">
-      <img src="teaser_images/diffusion_light_turbo.png" width="200"><br>
-      <a href="https://diffusionlight.github.io/turbo/">[project page]</a> 
-      <a href="https://arxiv.org/abs/2507.01305">[paper]</a>
-    </td>
-    <td align="center">Arxiv</td>
-    <td>
-      <b>DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting</b><br>
-      <i><u>Worameth Chinchuthakun</u>*, Pakkapon Phongthawee*, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">2024</td>
-    <td align="center">
-      <img src="teaser_images/diffusion_light.png" width="200"><br>
-      <a href="https://diffusionlight.github.io/">[project page]</a> 
-      <a href="https://arxiv.org/abs/2312.09168">[paper]</a>
-    </td>
-    <td align="center">CVPR 2024 (Oral) 🎉</td>
-    <td>
-      <b>DiffusionLight: Light Probes for Free by Painting a Chrome Ball</b><br>
-      <i>Pakkapon Phongthawee*, <u>Worameth Chinchuthakun</u>*, Nontaphat Sinsunthithet, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">2024</td>
-    <td align="center">
-      <img src="teaser_images/diffusion_artifacts.png" width="200"><br>
-      <a href="https://arxiv.org/abs/2307.11118">[paper]</a>
-    </td>
-    <td align="center">ICLR 2024</td>
-    <td>
-      <b>Diffusion Sampling with Momentum for Mitigating Divergence Artifacts</b><br>
-      <i>Suttisak Wizadwongsa, <u>Worameth Chinchuthakun</u>, Pramook Khungurn, Amit Raj, Supasorn Suwajanakorn</i>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">2024</td>
-    <td align="center">
-      <img src="teaser_images/land_cover.png" width="200"><br>
-      <a href="https://www.jstage.jst.go.jp/article/journalofjsce/12/2/12_23-16151/_pdf">[paper]</a>
-    </td>
-    <td align="center">Journal of JSCE</td>
-    <td>
-      <b>Annual Past-Present Land Cover Classification from Landsat Using Deep Learning for Urban Agglomerations</b><br>
-      <i><u>Worameth Chinchuthakun</u>, David Winderl, Alvin C.G. Varquez, Yukihiko Yamashita, Manabu Kanda</i>
-    </td>
-  </tr>
-</table>
-
+- 2025 — [**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**](https://tossatree.com/lusd-project/) [ICCV 2025]
+    - **Worameth Chinchuthakun***, Tossaporn Saengja*, Nontawat Tritrong, Pitchaporn Rewatbowornwong, Pramook Khungurn, Supasorn Suwajanakorn
+- 2025 — [**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**](https://diffusionlight.github.io/turbo/) [Arxiv]
+    - **Worameth Chinchuthakun***, Pakkapon Phongthawee*, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
+- 2024 — [**DiffusionLight: Light Probes for Free by Painting a Chrome Ball**](https://diffusionlight.github.io/) [CVPR 2024 (Oral) 🎉]
+    - Pakkapon Phongthawee*, **Worameth Chinchuthakun***, Nontaphat Sinsunthithet, Amit Raj, Varun Jampani, Pramook Khungurn, Supasorn Suwajanakorn
+- 2024 — [**Diffusion Sampling with Momentum
+for Mitigating Divergence Artifacts**](https://arxiv.org/abs/2307.11118) [ICLR 2024]
+    - Suttisak Wizadwongsa, **Worameth Chinchuthakun**, Pramook Khungurn, Amit Raj, Supasorn Suwajanakorn
+- 2024 — [**Annual Past-Present Land Cover
+Classification from Landsat Using Deep Learning for Urban Agglomerations**](https://www.jstage.jst.go.jp/article/journalofjsce/12/2/12_23-16151/_pdf) [Journal of JSCE]
+    - **Worameth Chinchuthakun**, David Winderl, Alvin C.G. Varquez, Yukihiko Yamashita, Manabu Kanda
 
 ### Reviewer services
 ICCV 2025, CVPR 2025
